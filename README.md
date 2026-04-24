@@ -42,10 +42,27 @@ Estimated Insurance Charge: ₹XXXXX
 
 ## Future Improvements
 
-* Add Streamlit UI
 * Use Random Forest / XGBoost
 * Deploy on web
 
 ##  Author
 
 Shreyas
+
+
+## Streamlit App
+
+This project includes a web-based UI built using Streamlit.
+
+### Run the app
+
+```bash
+cd src
+streamlit run app.py
+```
+
+### Features
+
+* Interactive sliders and dropdowns
+* Real-time prediction
+* Clean UI for user input
